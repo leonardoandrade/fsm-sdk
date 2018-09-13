@@ -1,3 +1,4 @@
 require('./createObject');
 require('./queryServiceCall');
-require('./queryTechncicians');
+require('./queryTechnicians');
+require('./queryActivityWithRequirements');
